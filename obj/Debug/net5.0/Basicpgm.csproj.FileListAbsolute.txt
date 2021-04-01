@@ -1,0 +1,16 @@
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.exe
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.deps.json
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.runtimeconfig.json
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.runtimeconfig.dev.json
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.dll
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\ref\Basicpgm.dll
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\bin\Debug\net5.0\Basicpgm.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.csprojAssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.AssemblyInfoInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.AssemblyInfo.cs
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.dll
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\ref\Basicpgm.dll
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\Basicpgm\Basicpgm\obj\Debug\net5.0\Basicpgm.genruntimeconfig.cache
