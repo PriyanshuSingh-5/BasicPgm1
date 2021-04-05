@@ -8,19 +8,33 @@ namespace Basicpgm
 {
     class PrimeFactor
     {
-        public static void FindFactors()
+        public static void ReadInputs()
         {
-            int a;
-            int b;
-            Console.WriteLine("Please enter your integer: ");
-            a = int.Parse(Console.ReadLine());
-            for (b = 1; b <= a; b++)
+            Console.WriteLine("Enter number you want to check:");
+            int number;
+            number = Convert.ToInt32(Console.ReadLine()); //convertion to integer
+            int divisors = 0;
+            for (int i = 1; i <= number; i++) 
             {
-                if (a % b == 0)
+                if (number % i == 0)  //checking the divisibility 
                 {
-                    Console.WriteLine(b + " is a factor of " + a);
+                    divisors++;
                 }
             }
+            if (divisors == 2)   
+            {
+                Console.WriteLine("The entered number is a prime number");
+            }
+            else
+            {
+                Console.WriteLine("The entered number is not a Prime Number");
+            }
+            Console.ReadLine();
+
         }
     }
 }
+    
+ 
+
+

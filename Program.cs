@@ -8,9 +8,17 @@ namespace Basicpgm
         {
             //SumOfTriplets.FindTriplets();
             //Gambler.ReadStakeAmountAndGoal();
-            //PrimeFactor.FindFactors();
-            EuclidDistance Distance = new EuclidDistance();
-            Distance.ReadInput();
+            //PrimeFactor.ReadInputs();
+            //EuclidDistance Distance = new EuclidDistance();
+            //Distance.ReadInput();
+            //QuadraticEquation.RootsOfEquation();
+            //Power.PowerOfTwo();
+
+            //Coupons.ReadNumOfCoupons();
+            //VendingMachine.ReadAmountToChange();
+            //WindChill.WindChillProblem = new WindChill(); 
+            //WindChillProblem.ReadInput();
+            StopWatch.StopWatchProblem();
             Console.Read();
         }
     }

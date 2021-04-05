@@ -10,18 +10,18 @@ namespace Basicpgm
     {
         public void ReadInput()
         {
-            Console.WriteLine("Enter x value:");
+            Console.WriteLine("Enter x value:");//read input for x
             string input1 = Console.ReadLine();
-            int x = Convert.ToInt32(input1);
-            Console.WriteLine("Enter y value");
+            int x = Convert.ToInt32(input1);  //converting the string to integer
+            Console.WriteLine("Enter y value");//read input for y
             string input2 = Console.ReadLine();
             int y = Convert.ToInt32(input2);
-            Distance(x, y);
+            Distance(x, y); //calling the method
 
         }
         private void Distance(int x,int y)
         {
-            double distance = Math.Sqrt(x * x + y * y);
+            double distance = Math.Sqrt(x * x + y * y);//distance formula
             Console.WriteLine(distance);
         }
     }

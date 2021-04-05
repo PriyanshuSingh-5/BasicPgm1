@@ -11,13 +11,13 @@ namespace Basicpgm
         public static void FindTriplets()
         {
             bool found = false;
-            int[] array = { 12, -6, -6, 4, 5, 10 };
+            int[] array = { 0 ,- 1, 2, - 3 ,1 ,1, - 2, 1, 0, 5 };
 
-            for (int i = 0; i < array.Length - 1; i++)
+            for (int i = 0; i < array.Length ; i++)
             {
-                for (int j = i + 1; j < array.Length - 1; j++)
+                for (int j = i + 1; j < array.Length ; j++)
                 {
-                    for (int k = j + 1; k < array.Length - 1; k++)
+                    for (int k = j + 1; k < array.Length ; k++)
                     {
                         if (array[i] + array[j] + array[k] == 0)
                         {
